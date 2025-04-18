@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **Playwright and Spring boot**
 
-- 💬 Ask me about **Selenium, Rest Assured,Java, Pactflow, Jenkins, Docker and Cypress**
+- 💬 Ask me about **Selenium, Rest Assured, Java, Pactflow, Jenkins, Docker, Postman, Cypress, Schemathesis, Pact and Contract Testing **
 
 - 📫 How to reach me **meetbogireddyhere@gmail.com**
 
 - 📄 Know about my experiences [https://about.me/gnanendra.bogireddy](https://about.me/gnanendra.bogireddy)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
